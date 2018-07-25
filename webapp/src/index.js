@@ -7,6 +7,11 @@ import Icon from './icon.png';
 // js
 import _ from 'lodash';
 
+
+// data in csv
+import Data from './data.xml';
+
+
 function component() {
   var element = document.createElement('div');
 
@@ -20,6 +25,9 @@ function component() {
    myIcon.src = Icon;
 
    element.appendChild(myIcon);
+
+
+   console.log(Data);
 
   return element;
 }
