@@ -91,10 +91,23 @@ UserPreferences
   id
   userid
   preference
+  
+RebeverseGeoCoding
+  long
+  lat
+  streetNumber: street_number
+  route: route
+  neighborhood: neighborhood
+  political: political
+  locality: locality  
+  administrativeAreaLevel1: administrative_area_level_1
+  administrativeAreaLevel2: administrative_area_level_2
+  country: country
+  postalCode: postal_code
+  postalCodeSuffix: postal_code_suffix
 ```
 
-
-## Screens
+## Visitor Screens
 ### New Users
 ```
 1. Sign in
@@ -142,3 +155,8 @@ Distance to Stop 1 (4th & King): 2 Miles (15 mins)
 ================================================
 Tab_1 (Time Table) | * Tab_2 (Map)
 ```
+
+
+
+
+## Admin Screens
