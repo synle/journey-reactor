@@ -161,7 +161,7 @@ Tab_1 (Time Table) | * Tab_2 (Map)
 ```
 
 
-## Driver
+## Driver / Vehicle Operator
 (Optional for live traffic updates) Ping server with drivers' vehicle long and lat
 
 ### Trip Progress
@@ -174,7 +174,9 @@ Trip progress and potentially alerts
 Communicate with dispatcher regarding the locations
 
 ## Admin Screens
+Manage Routes
 ### CRUD Your Routes
 ### CRUD Route Alert
+### Vehicle Status
 ### Stats
 ### Settings
