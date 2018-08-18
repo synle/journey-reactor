@@ -91,12 +91,16 @@ UserPreferences
   id
   userid
   preference
+
+UserRole
+  id
+  userid
+  role
   
 RebeverseGeoCoding
   long
   lat
-  streetNumber: street_number
-  route: route
+  streetnumber: street_number
   neighborhood: neighborhood
   political: political
   locality: locality  
@@ -160,3 +164,7 @@ Tab_1 (Time Table) | * Tab_2 (Map)
 
 
 ## Admin Screens
+### CRUD Your Routes
+### Add Route Alert
+### Stats
+### Settings
