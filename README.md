@@ -38,6 +38,7 @@ Route
   vendorid
   name
   description
+  style - color / additional style for the route
   =========================
   1. North-Bound
   2. South-Bound
