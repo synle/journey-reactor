@@ -35,6 +35,7 @@ Vendor
 Route
   id
   regionid
+  vendorid
   name
   description
   =========================
@@ -80,6 +81,11 @@ Users
   email
   password
   salt
+  
+UserVendors
+  id
+  userid
+  vendorid
 
 UserPreferences
   id
